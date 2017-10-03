@@ -1,0 +1,7 @@
+== README
+
+20170921: 90% fix for <%= product.categry.name %> issue...
+20170920: stopped at products index on lines 22-25
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
